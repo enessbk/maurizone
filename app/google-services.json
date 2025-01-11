@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475011604397",
+    "project_id": "maurizone-59646",
+    "storage_bucket": "maurizone-59646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475011604397:android:a49bbe1ea0b91c2577cb24",
+        "android_client_info": {
+          "package_name": "com.example.maurizone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_bez98j7zAR2FM2I9zTwnEC_GrIjy1Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
